@@ -1,0 +1,10 @@
+Screen3 As screen:
+
+    "Progress1 As 'Progress Bar'":
+        DisplayMode: =DisplayMode.Edit
+        Height: =45
+        Width: =450
+        X: =40
+        Y: =40
+        ZIndex: =1
+
