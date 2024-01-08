@@ -1,0 +1,12 @@
+"'0daf74d1-9a88-40b5-b177-3f7874634cf5' As TestSuite":
+    Description: =""
+    DisplayName: ="Suite"
+
+    "'cc48f273-51f4-45a9-b1e6-4008f9005c18' As TestCase":
+        Description: =""
+        DisplayName: ="Case"
+
+        Step1 As TestStep:
+            Description: ="Header Is there"
+            Value: =Header1.Visible
+
