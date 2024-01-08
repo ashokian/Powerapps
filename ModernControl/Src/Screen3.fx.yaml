@@ -1,0 +1,51 @@
+Screen3 As screen:
+
+    "TabList2 As 'Tab list'.pcfdataset":
+        DisplayMode: =DisplayMode.Edit
+        Height: =258
+        Items: ='License Master'
+        Width: =1163
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+        "'License Type2' As pcfDataField.textualColumn":
+            FieldDisplayName: ="License Type"
+            FieldName: ="Title"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =1
+            ZIndex: =1
+
+        "'Total License2' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Total License"
+            FieldName: ="Total_x0020_License"
+            FieldType: ="n"
+            FieldVariantName: ="textualColumn"
+            Order: =2
+            ZIndex: =2
+
+        "'Available License2' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Available License"
+            FieldName: ="Available_x0020_License"
+            FieldType: ="n"
+            FieldVariantName: ="textualColumn"
+            Order: =3
+            ZIndex: =3
+
+        "'Requestor Name1' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Requestor Name"
+            FieldName: ="RequestorName"
+            FieldType: ="E"
+            FieldVariantName: ="textualColumn"
+            Order: =4
+            ZIndex: =4
+
+        Attachments2 As pcfDataField.textualColumn:
+            FieldDisplayName: ="Attachments"
+            FieldName: ="{Attachments}"
+            FieldType: ="r*"
+            FieldVariantName: ="textualColumn"
+            Order: =5
+            ZIndex: =5
+
