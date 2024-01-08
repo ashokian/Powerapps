@@ -11,12 +11,3 @@ Screen2 As screen:
         Y: =200
         ZIndex: =1
 
-    "ViewIn3D1 As 'View in 3D (preview)'.pcfdataset":
-        BackgroundFill: =RGBA(230, 235, 240, 1)
-        DisplayMode: =DisplayMode.Edit
-        Height: =400
-        Width: =400
-        X: =40
-        Y: =40
-        ZIndex: =2
-
