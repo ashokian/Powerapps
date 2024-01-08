@@ -1,0 +1,12 @@
+Screen4 As screen:
+
+    BadgeCanvas1 As Badge:
+        Content: ="test"
+        DisplayMode: =DisplayMode.Edit
+        Height: =608
+        ThemeColor: ='BadgeCanvas.ThemeColor'.Danger
+        Width: =885
+        X: =40
+        Y: =40
+        ZIndex: =1
+
